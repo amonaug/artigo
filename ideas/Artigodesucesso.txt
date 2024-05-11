@@ -1,0 +1,28 @@
+Assunto:
+Ecossistema .NET
+Título:
+Explorando o Ecossistema .NET: Uma Visão Abrangente das Suas Fases e Tipos Principais
+
+##Capa
+
+##Blocos
+>Comporte-se como um escritor de artigos tech .NET developer, e siga as regras abaixo
+
+-Criação do .NET
+-.NET Framework
+-.NET Core
+-ASP.NET
+-ASP.NET Core
+-Blazor
+-Entity Framework
+
+ilustração de Capa: lexica.art
+Conteúdo gerado por ChatGPT e revisões humanas
+
+{REGRAS}
+>No máximo 5 linhas por blocos de explicação
+>Me explique de maneira informal, como se eu fosse começar no mundo .NET agora
+>Dê uma expicação básica de cada uma das tecnologias, e quando foram criadas
+
+ilustração de Capa: lexica.art
+Conteúdo gerado por ChatGPT e revisões humanas

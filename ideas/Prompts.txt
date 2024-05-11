@@ -1,0 +1,51 @@
+1.
+Comporte-se como um escritor de artigos tech .NET developer, e siga as regras abaixo
+
+-Criação do .NET
+-.NET Framework
+-.NET Core
+-ASP.NET
+-ASP.NET Core
+-Blazor
+-Entity Framework
+
+ilustração de Capa: lexica.art
+Conteúdo gerado por ChatGPT e revisões humanas
+
+{REGRAS}
+>No máximo 5 linhas por blocos de explicação
+>Me explique de maneira informal, como se eu fosse começar no mundo .NET agora
+>Dê uma expicação básica de cada uma das tecnologias, e quando foram criadas
+
+ilustração de Capa: lexica.art
+Conteúdo gerado por ChatGPT e revisões humanas
+
+2.
+##O Surgimento do .NET: Uma Revolução Começa
+
+Nos primeiros anos 2000, a Microsoft iniciou uma revolução com o surgimento do .NET. Este framework inovador visava simplificar o desenvolvimento de software em diversas plataformas, preparando o terreno para uma nova era de inovação.
+
+de um contexto melhor nisso
+
+3.
+##Introdução ao .NET Framework: O Pioneiro
+
+Aqui entra o .NET Framework, o pioneiro que estabeleceu as bases para o desenvolvimento .NET moderno. Lançado em 2002, tornou-se a pedra fundamental para a criação de aplicações centradas no Windows, oferecendo uma infinidade de bibliotecas e ferramentas para simplificar os fluxos de trabalho de desenvolvimento.
+
+com paragrafos de ate 5 linhas, e de maneira informal, incremente este texto
+
+4.
+Avançando rapidamente para 2016, o .NET Core surge como a fênix ressurgindo das cinzas de seu antecessor. Esta iteração multiplataforma e de código aberto do framework anuncia uma nova era, trazendo escalabilidade, melhorias de desempenho e princípios de design modular.
+Dê o contexto do porque mudou, de maneira informal e de ate 5 linhas de explicações
+
+5.
+Em paralelo ao .NET Framework, o ASP.NET emerge como uma potência para o desenvolvimento web. Este robusto framework capacita os desenvolvedores a construir aplicações web dinâmicas e ricas em recursos, aproveitando todo o potencial do ecossistema .NET., de maneira informal e de ate 5 linhas de explicações
+
+6.
+
+Explique mais sobre as funcionalidades do blazor, de maneira informal, ate 5 linhas de paragrafo
+Testemunhe a revolução com o Blazor, uma tecnologia de ponta que borra as linhas entre o desenvolvimento web do lado do cliente e do servidor. Com o Blazor, os desenvolvedores podem criar aplicações web interativas e responsivas usando ferramentas e linguagens familiares como C# e .NET.
+
+7.
+
+Em modelo de postagem do linkedin, apresente um artigo que você fez, utilizando-se de chatgpt, canva, com revisões humanas, de maneira informal e bem atrativa, sobre o ecossistema .NET
